@@ -10,5 +10,10 @@
     "eslint": "^8.21.0"
   },
   "eslintConfig": {
+  },
+  "homepage": "https://crystalvega.github.io/App-Links-API",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   }
 }
