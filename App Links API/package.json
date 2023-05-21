@@ -1,0 +1,14 @@
+{
+  "name": "app-links-api",
+  "version": "0.0.0",
+  "description": "App Links API",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "App Links API", "App Links API\App Links API.njsproj", "{7A3039F3-0F92-4C3E-A421-C5BCADAEA9F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A3039F3-0F92-4C3E-A421-C5BCADAEA9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3039F3-0F92-4C3E-A421-C5BCADAEA9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3039F3-0F92-4C3E-A421-C5BCADAEA9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3039F3-0F92-4C3E-A421-C5BCADAEA9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCACEE5C-D9F6-4588-9B47-9DDCA19FFAD7}
+	EndGlobalSection
+EndGlobal
